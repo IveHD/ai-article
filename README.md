@@ -1,6 +1,6 @@
 # AI 文章目录
 
-收录 209 篇 Anthropic Research 文章。分类沿用官网，各分类内按发布日期从新到旧排列。跨分类文章在每个所属分类中均有入口。
+收录 210 篇 Anthropic Research 文章。分类沿用官网，各分类内按发布日期从新到旧排列。跨分类文章在每个所属分类中均有入口。
 
 [Anthropic 归档说明](anthropic/README.md)
 
@@ -9,7 +9,7 @@
 - [对齐（Alignment）](#alignment) · 50 篇
 - [经济学（Economics）](#economics) · 26 篇
 - [工程（Engineering）](#engineering) · 29 篇
-- [前沿红队（Frontier Red Team）](#frontier-red-team) · 28 篇
+- [前沿红队（Frontier Red Team）](#frontier-red-team) · 29 篇
 - [可解释性（Interpretability）](#interpretability) · 35 篇
 - [社会影响（Societal Impacts）](#societal-impacts) · 25 篇
 - [科学（Science）](#science) · 18 篇
@@ -139,6 +139,7 @@
 
 ## 前沿红队（Frontier Red Team）
 
+- 2026-11-16 · [更新协调漏洞披露政策的时限](anthropic/frontier-red-team/coordinated-vulnerability-disclosure-timelines.md) · Updating our coordinated vulnerability disclosure policy timelines
 - 2026-11-02 · [大语言模型的可证明推理：研究进展](anthropic/frontier-red-team/provable-inference.md) · Progress on provable inference for large language models
 - 2026-07-28 · [用 Claude 发现密码学弱点](anthropic/frontier-red-team/discovering-cryptographic-weaknesses.md) · Discovering cryptographic weaknesses with Claude
 - 2026-07-24 · [Pilot 项目：AI 能控制无人机吗？](anthropic/frontier-red-team/project-pilot.md) · Project Pilot: Can AI control a drone?

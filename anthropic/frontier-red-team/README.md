@@ -1,7 +1,8 @@
 # 前沿红队
 
-[返回 Research 归档](../README.md) · [官网栏目](https://www.anthropic.com/research/team/frontier-red-team) · 28 篇
+[返回 Research 归档](../README.md) · [官网栏目](https://www.anthropic.com/research/team/frontier-red-team) · 29 篇
 
+- 2026-11-16 · [更新协调漏洞披露政策的时限](./coordinated-vulnerability-disclosure-timelines.md)
 - 2026-11-02 · [大语言模型的可证明推理：研究进展](./provable-inference.md)
 - 2026-07-28 · [用 Claude 发现密码学弱点](./discovering-cryptographic-weaknesses.md)
 - 2026-07-24 · [Pilot 项目：AI 能控制无人机吗？](./project-pilot.md)
