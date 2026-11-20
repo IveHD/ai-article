@@ -1,7 +1,8 @@
 # 科学
 
-[返回 Research 归档](../README.md) · [官网栏目](https://www.anthropic.com/science) · 18 篇
+[返回 Research 归档](../README.md) · [官网栏目](https://www.anthropic.com/science) · 19 篇
 
+- 2026-11-17 · [Claude 解决黑洞物理中的两个开放问题](./claude-black-hole-physics.md)
 - 2026-11-09 · [用现实中的电子产品设计任务测试 Claude](./claude-electronics-design.md)
 - 2026-11-06 · [教 AI 构建科学模型](./teaching-ai-to-build-scientific-models.md)
 - 2026-11-04 · [用 Claude 研究穹窿颗粒](./investigating-vault-particles-with-claude.md)

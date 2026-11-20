@@ -1,6 +1,6 @@
 # AI 文章目录
 
-收录 210 篇 Anthropic Research 文章。分类沿用官网，各分类内按发布日期从新到旧排列。跨分类文章在每个所属分类中均有入口。
+收录 211 篇 Anthropic Research 文章。分类沿用官网，各分类内按发布日期从新到旧排列。跨分类文章在每个所属分类中均有入口。
 
 [Anthropic 归档说明](anthropic/README.md)
 
@@ -12,7 +12,7 @@
 - [前沿红队（Frontier Red Team）](#frontier-red-team) · 29 篇
 - [可解释性（Interpretability）](#interpretability) · 35 篇
 - [社会影响（Societal Impacts）](#societal-impacts) · 25 篇
-- [科学（Science）](#science) · 18 篇
+- [科学（Science）](#science) · 19 篇
 - [官网未标注栏目](#uncategorized) · 2 篇
 
 <a name="alignment"></a>
@@ -243,6 +243,7 @@
 
 ## 科学（Science）
 
+- 2026-11-17 · [Claude 解决黑洞物理中的两个开放问题](anthropic/science/claude-black-hole-physics.md) · Claude solves two open problems in the physics of black holes
 - 2026-11-09 · [用现实中的电子产品设计任务测试 Claude](anthropic/science/claude-electronics-design.md) · Testing Claude on real-world electronics design
 - 2026-11-06 · [教 AI 构建科学模型](anthropic/science/teaching-ai-to-build-scientific-models.md) · Teaching AI to build scientific models
 - 2026-11-04 · [用 Claude 研究穹窿颗粒](anthropic/science/investigating-vault-particles-with-claude.md) · Investigating vault particles with Claude
